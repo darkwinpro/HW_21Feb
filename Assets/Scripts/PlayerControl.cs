@@ -5,8 +5,10 @@ public class PlayerControl : MonoBehaviour
 {
     [SerializeField]
     private Transform _pointer;
+    
     [SerializeField]
     private AudioSource _click;
+    
     [SerializeField]
     private UnityEngine.AI.NavMeshAgent _myAgent;
     
@@ -26,7 +28,7 @@ public class PlayerControl : MonoBehaviour
             {
                 _myAgent.SetDestination(hit.point);
                 _click.Play();
-                Debug.Log("Come here!!!");
+                //Debug.Log("Come here!!!");
             }
         }
     }
