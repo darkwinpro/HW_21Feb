@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="version14">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="assets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +74,7 @@
       <workItem from="1613303683169" duration="15000" />
       <workItem from="1613303982990" duration="346000" />
       <workItem from="1613307538640" duration="103000" />
+      <workItem from="1613307727648" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="add gun">
       <created>1613293154657</created>
@@ -94,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613303393131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="assets">
+      <created>1613307816406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613307816406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +121,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add gun" />
     <MESSAGE value="bullets" />
-    <option name="LAST_COMMIT_MESSAGE" value="bullets" />
+    <MESSAGE value="assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="assets" />
   </component>
 </project>
