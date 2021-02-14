@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="" />
+    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="without bluster">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_21Feb.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HW_21Feb.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Patrol.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
       <option value="$PROJECT_DIR$/HW_21Feb.sln" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oNkDTiGkBWUvYURs5SHABSD8FW" />
@@ -64,7 +70,8 @@
       <workItem from="1613134364626" duration="58000" />
       <workItem from="1613134454803" duration="415000" />
       <workItem from="1613156841548" duration="219000" />
-      <workItem from="1613159152734" duration="12329000" />
+      <workItem from="1613159152734" duration="12522000" />
+      <workItem from="1613288897045" duration="1540000" />
     </task>
     <servers />
   </component>
