@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки и счетчик рикошета" />
+    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки и счетчик рикошета">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +45,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Patrol.cs" />
       <option value="$PROJECT_DIR$/HW_21Feb.sln" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oNkDTiGkBWUvYURs5SHABSD8FW" />
@@ -100,7 +102,7 @@
       <workItem from="1613307538640" duration="103000" />
       <workItem from="1613307727648" duration="528000" />
       <workItem from="1613308519895" duration="589000" />
-      <workItem from="1613309393530" duration="9328000" />
+      <workItem from="1613309393530" duration="9679000" />
     </task>
     <task id="LOCAL-00001" summary="add gun">
       <created>1613293154657</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613347506562</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="отскоки и счетчик рикошета">
+      <created>1613347586420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613347586420</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +179,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
