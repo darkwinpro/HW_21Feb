@@ -1335,7 +1335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bulletPrefab: {fileID: 5026102016901662231, guid: 24eea12da7b5845e1be5edd4efe40971, type: 3}
-  _bulletVelocity: 30
+  _bulletVelocity: 20
   _shoot: {fileID: 874239339}
 --- !u!1001 &1257754263
 PrefabInstance:
@@ -1366,7 +1366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6192202416517971913, guid: 077334d1d12e1416c913287ed0931f08, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.5262051
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 6192202416517971913, guid: 077334d1d12e1416c913287ed0931f08, type: 3}
       propertyPath: m_LocalPosition.z
