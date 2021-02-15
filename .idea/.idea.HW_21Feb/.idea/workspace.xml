@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Bullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gun.cs" afterDir="false" />
-    </list>
+    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки и счетчик рикошета" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +100,7 @@
       <workItem from="1613307538640" duration="103000" />
       <workItem from="1613307727648" duration="528000" />
       <workItem from="1613308519895" duration="589000" />
-      <workItem from="1613309393530" duration="8867000" />
+      <workItem from="1613309393530" duration="9328000" />
     </task>
     <task id="LOCAL-00001" summary="add gun">
       <created>1613293154657</created>
@@ -143,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613335484966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="отскоки и счетчик рикошета">
+      <created>1613344867761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613344867761</updated>
+    </task>
+    <task id="LOCAL-00007" summary="отскоки и счетчик рикошета">
+      <created>1613347506562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613347506562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,7 @@
     <MESSAGE value="assets" />
     <MESSAGE value="last test" />
     <MESSAGE value="отскоки 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="отскоки 1.0" />
+    <MESSAGE value="отскоки и счетчик рикошета" />
+    <option name="LAST_COMMIT_MESSAGE" value="отскоки и счетчик рикошета" />
   </component>
 </project>

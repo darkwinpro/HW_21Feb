@@ -11,7 +11,6 @@ public class Gun : MonoBehaviour
     [SerializeField] private float _bulletVelocity = 30f;
 
     [SerializeField] private AudioSource _shoot;
-
     
 
     void Update()
