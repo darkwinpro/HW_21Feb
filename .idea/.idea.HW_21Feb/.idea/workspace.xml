@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки и рикошет">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBehavior.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBar.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/EnemyUnit.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/EnemyUnit.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/NavMesh.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +46,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/dark/UNITY/HW_21Feb/Assets/Scripts/Gun.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -48,10 +57,17 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
+      <option value="$PROJECT_DIR$/Assets/ProgressBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/HealthBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HealthBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ProgressBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oNkDTiGkBWUvYURs5SHABSD8FW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,7 +121,7 @@
       <workItem from="1613308519895" duration="589000" />
       <workItem from="1613309393530" duration="9774000" />
       <workItem from="1613408928045" duration="837000" />
-      <workItem from="1613497099313" duration="637000" />
+      <workItem from="1613497099313" duration="9796000" />
     </task>
     <task id="LOCAL-00001" summary="add gun">
       <created>1613293154657</created>
@@ -184,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613413729628</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="shootColldown">
+      <created>1613506913349</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613506913349</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +264,7 @@
     <MESSAGE value="отскоки и счетчик рикошета" />
     <MESSAGE value="отскоки и рикошет" />
     <MESSAGE value="destroy bullet" />
-    <option name="LAST_COMMIT_MESSAGE" value="destroy bullet" />
+    <MESSAGE value="shootColldown" />
+    <option name="LAST_COMMIT_MESSAGE" value="shootColldown" />
   </component>
 </project>
