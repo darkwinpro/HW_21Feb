@@ -8,9 +8,11 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Bullet.cs" t="Include" />
+          <e p="EnemyCreator.cs" t="Include" />
           <e p="Gun.cs" t="Include" />
           <e p="HealthBar.cs" t="Include" />
           <e p="HealthBehavior.cs" t="Include" />
+          <e p="HelathBarManager.cs" t="Include" />
           <e p="Patrol.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="ProgressBar.cs" t="Include" />

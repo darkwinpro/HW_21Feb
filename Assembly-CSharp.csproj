@@ -59,6 +59,8 @@
      <Compile Include="Assets\Scripts\HealthBehavior.cs" />
      <Compile Include="Assets\Scripts\ProgressBar.cs" />
      <Compile Include="Assets\Scripts\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\HelathBarManager.cs" />
+     <Compile Include="Assets\Scripts\EnemyCreator.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
