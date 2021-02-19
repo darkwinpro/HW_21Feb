@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="отскоки и рикошет">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBehavior.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBar.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="2d11deb1-1667-42e5-b992-64f8f605b635" name="Default Changelist" comment="from lesson">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_21Feb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/EnemyUnit.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/EnemyUnit.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/NavMesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +34,11 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -121,7 +118,7 @@
       <workItem from="1613308519895" duration="589000" />
       <workItem from="1613309393530" duration="9774000" />
       <workItem from="1613408928045" duration="837000" />
-      <workItem from="1613497099313" duration="9796000" />
+      <workItem from="1613497099313" duration="11566000" />
     </task>
     <task id="LOCAL-00001" summary="add gun">
       <created>1613293154657</created>
@@ -207,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613506913349</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="from lesson">
+      <created>1613760603170</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613760603170</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +230,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="temp" />
                       </list>
                     </value>
                   </entry>
@@ -265,6 +269,7 @@
     <MESSAGE value="отскоки и рикошет" />
     <MESSAGE value="destroy bullet" />
     <MESSAGE value="shootColldown" />
-    <option name="LAST_COMMIT_MESSAGE" value="shootColldown" />
+    <MESSAGE value="from lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="from lesson" />
   </component>
 </project>

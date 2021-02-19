@@ -10,40 +10,26 @@ public class EnemyCreator : MonoBehaviour
 
 }
 
-public class EnemyManager : MonoBehaviour
-{
-    public Action<EnemyCreator> enemyCreation;
-
-    public void CreateEnemy()
-    {
-        EnemyCreator createdEnemy = null;
-        //
-        //cteation
-        //
-        
-        enemyCreation.Invoke(createdEnemy); 
-    }
-}
 public class HelathBarManager : MonoBehaviour
 {
     [SerializeField] 
-    private EnemyManager _enemyManager;
+    private HealthBar _healthBarPrefab;
     [SerializeField] 
     private List<HealthBehavior> _healthBehaviors;
 
     private void Awake()
     {
-        _enemyManager.enemyCreation += OnEnemySpawed;
+        foreach (var health in _healthBehaviors)    
+        {
+            CreateHealthBar(health);
+        }
+        
     }
 
-    private void OnDestroy()
+    private void CreateHealthBar(HealthBehavior health)
     {
-        _enemyManager.enemyCreation -= OnEnemySpawed;
-    }
-    private void OnEnemySpawed(EnemyCreator enemyCreator)
-    {
-        //var healthBarInstance = Instantiate(healthBar);
-        //healthBarInstance.Initialize(enemyCreator.Health);
+        var healthBarInstance = Instantiate(_healthBarPrefab, transform);
+        healthBarInstance.InitializeHP(health);
     }
 }
 public class HealthBar : MonoBehaviour
