@@ -5,8 +5,10 @@ using UnityEngine.UI;
 
 public class ProgressBar : MonoBehaviour
 {
-    [SerializeField] private Image _background;
-    [SerializeField] private Image _value;
+    [SerializeField] 
+    private Image _background;
+    [SerializeField] 
+    private Image _value;
     
 
     public void SetProgress(float progress)

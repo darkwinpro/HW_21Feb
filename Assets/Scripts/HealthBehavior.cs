@@ -11,7 +11,7 @@ public class HealthBehavior : MonoBehaviour
     private void Awake()
     {
         MaXHealth = 100;
-        Health = 60;
+        Health = 80 ;
     }
 
 }

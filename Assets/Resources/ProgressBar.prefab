@@ -105,7 +105,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _progressBar: {fileID: 582341842237966135}
-  _healthBehavior: {fileID: 0}
 --- !u!1 &5026847658884008672
 GameObject:
   m_ObjectHideFlags: 0

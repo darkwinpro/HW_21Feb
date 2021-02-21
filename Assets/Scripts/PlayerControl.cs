@@ -28,7 +28,6 @@ public class PlayerControl : MonoBehaviour
             {
                 _myAgent.SetDestination(hit.point);
                 _click.Play();
-                //Debug.Log("Come here!!!");
             }
         }
     }
