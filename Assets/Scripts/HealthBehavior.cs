@@ -5,13 +5,15 @@ using UnityEngine;
 
 public class HealthBehavior : MonoBehaviour
 {
-    public int MaXHealth { get; private set; }
-    public int Health { get; private set; }
+    
+    public float MaXHealth { get; set; }
+    
+    public float Health { get; set; }
 
     private void Awake()
     {
-        MaXHealth = 100;
-        Health = 80 ;
+        MaXHealth = 1000;
+        Health = 1000;
     }
 
 }
